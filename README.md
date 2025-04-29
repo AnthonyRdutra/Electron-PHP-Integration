@@ -1,4 +1,4 @@
-# Firebase Integration with Electron and PHP
+# PHP integration in Electron
 
 This project demonstrates how to integrate Electron with PHP scripts. 
 

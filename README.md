@@ -12,13 +12,13 @@ This project demonstrates how to integrate Electron with PHP scripts.
 - Node.js
 - PHP CLI
 
-## 🔧 Setup
+## Setup
 
 ### From Electron to PHP
 
 Examples of calling an PHP script:
 ```js
-//whitout and input array 
+//whitout an input array 
 const data = await window.electronAPI.getClientData("examplescript.php");
 
 //whith an input array
